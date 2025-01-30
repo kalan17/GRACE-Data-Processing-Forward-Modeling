@@ -1,4 +1,3 @@
-# GRACE-Data-Processing-Forward-Modeling
 # GRACE Data Processing & Forward Modeling
 
 This repository contains MATLAB scripts for processing GRACE Level-2 (Spherical Harmonic Coefficients) data and improving its spatial resolution using a forward modeling approach with WATERGAP Total Water Storage (TWS) data.  
